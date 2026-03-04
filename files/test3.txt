@@ -1,0 +1,11 @@
+magyar;angol
+eldönt;to decide
+szótár, szókics, szószedet;vocabulary
+compromisszum, megegyezés;compromise
+kijelentés, indítvány, javaslat;proposition
+szakorvos;specialist
+panaszkodik, panaszt tesz;to complain
+azaz;i.e. (that is)
+pályázó, jelentkező;applicant
+eredmény;concession
+hátrány;disadvantage

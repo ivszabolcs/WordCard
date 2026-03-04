@@ -1,0 +1,11 @@
+magyar;angol
+kérés, kérelem, kívánság;request
+ajánlás;recommendation
+compromisszum, megegyezés;compromise
+következtetés, döntés;conclusion
+elhatároz, eldönt;resolve
+kutat, vizsgál;to research
+(le)tagad, megtagad;to deny
+tanács;advice
+vélemény;opinion
+siker;success

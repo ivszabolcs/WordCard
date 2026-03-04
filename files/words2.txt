@@ -1,0 +1,6 @@
+front;back
+csoki;choco
+dolog;thing
+kutya;dog
+személy;person
+ember;human
