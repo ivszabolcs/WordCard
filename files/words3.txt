@@ -1,5 +1,0 @@
-front;back
-gyülöcs;fruit
-kaki;shit
-alma;apple
-banán;banana
