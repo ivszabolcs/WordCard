@@ -1,5 +1,0 @@
-Etelek.csv;51;0
-test4.txt;10;10
-test2.txt;10;10
-test3.txt;10;10
-test5.txt;10;10
